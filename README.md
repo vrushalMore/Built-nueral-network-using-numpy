@@ -1,1 +1,1 @@
-# np
+# Built nueral network using numpy

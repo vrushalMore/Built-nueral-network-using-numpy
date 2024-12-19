@@ -1,1 +1,1 @@
-# Built nueral network using numpy
+# Built neural network using numpy
